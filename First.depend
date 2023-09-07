@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1694087740 source:c:\users\public\first\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SubMainû.c"
+
+1694087151 source:c:\users\public\first\submainû.c
+	<stdio.h>
+	<stdlib.h>
+
+1694086816 source:c:\users\public\first\submain2.c
+	<stdio.h>
+	<stdlib.h>
+
+1694087474 source:c:\users\public\first\submain4.c
+	<stdio.h>
+	<stdlib.h>
+
+1694087474 source:c:\users\public\first\submain3.c
+	<stdio.h>
+	<stdlib.h>
+
+1694087788 c:\users\public\first\submainû.c
+	<stdio.h>
+	<stdlib.h>
+
